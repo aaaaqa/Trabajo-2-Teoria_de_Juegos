@@ -1,0 +1,4 @@
+﻿  MainGame.cpp
+C:\Users\User\Desktop\Motor\Motor\MainGame.cpp(69,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\User\Desktop\Motor\Motor\MainGame.cpp(70,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Motor.vcxproj -> C:\Users\User\Desktop\Motor\Debug\Motor.exe
